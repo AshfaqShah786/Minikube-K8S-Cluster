@@ -14,7 +14,7 @@ Step 2: Start the Minikube cluster
 
 Step 3: Create Deployment YAML file
 
-(Create a YAML file locally describing your app deployment Or Can Refer the filegiven above.)
+(Create a YAML file locally describing your app deployment Or Can Refer the file given above.)
 
 Step 4: Apply the Deployment
 
@@ -26,7 +26,7 @@ Step 5: Verify Pods
 
 Step 6: Create Service YAML file
 
-(Create a YAML file locally describing your service — no commands here.)
+(Create a YAML file locally describing your service Or Can Refer the file given above.)
 
 Step 7: Apply the Service
 
